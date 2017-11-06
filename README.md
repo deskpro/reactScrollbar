@@ -1,8 +1,8 @@
 
-[![build status](https://img.shields.io/travis/souhe/reactScrollbar/master.svg?style=flat-square)](https://travis-ci.org/souhe/reactScrollbar)
-[![npm package](https://img.shields.io/npm/v/react-scrollbar.svg?style=flat-square)](https://www.npmjs.org/package/react-scrollbar)
-[![npm downloads](https://img.shields.io/npm/dm/react-scrollbar.svg?style=flat-square)](https://www.npmjs.org/package/react-scrollbar)
-# react-scrollbar
+[![npm package](https://img.shields.io/npm/v/@deskpro/react-scrollbar.svg?style=flat-square)](https://www.npmjs.org/package/react-scrollbar)
+# @deskpro/react-scrollbar
+
+Forked to by pass absence of merge of PR on main project
 
 Simple ScrollArea component built for [React](http://facebook.github.io/react/).
 
